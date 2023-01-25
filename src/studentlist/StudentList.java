@@ -22,8 +22,6 @@ public class StudentList {
             String name=input.next();
             
             sList[i]=new Student(id,name);
-        }
-        
+        }   
     }
-
 }
