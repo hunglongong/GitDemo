@@ -30,6 +30,7 @@ public class Student {
 
     public void setStudName(String studName) {
         this.studName = studName;
+        //nothing
     }
     
 }
